@@ -1,33 +1,24 @@
-.App {
+ @import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+* {
+  background-color: #0ac66e;
+  font-family: 'Audiowide', cursive;
+}
+
+.startstop button {
   text-align: center;
+  padding: 14px;
+  margin: 20px;
+  margin-top: 50px;
+  font-family: 'Audiowide', cursive;
+  background-color: black;
+  color: red;
+  border: none;
+  border-radius: 3px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h1 {
+  font-size: 4.5rem;
+  margin: 80px 0;
+  letter-spacing: 3px;
 }
