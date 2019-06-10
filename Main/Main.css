@@ -1,0 +1,32 @@
+* {
+  font-family: 'Audiowide', cursive;
+}
+
+.speed {
+  text-align: center;
+}
+
+.button1 {
+  display: inline-block;
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+  background-color: #4e4d4d;
+  margin: 40px;
+  box-shadow: 0 0 5px #2d2b2b
+}
+
+.action {
+  text-align: center;
+  margin-top: 50px;
+}
+button {
+  text-align: center;
+  padding: 10px;
+  margin: 5px;
+  font-family: 'Audiowide', cursive;
+  background-color: black;
+  color: red;
+  border: none;
+  border-radius: 3px;
+}

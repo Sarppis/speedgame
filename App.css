@@ -1,0 +1,24 @@
+ @import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+* {
+  background-color: #0ac66e;
+  font-family: 'Audiowide', cursive;
+}
+
+.startstop button {
+  text-align: center;
+  padding: 14px;
+  margin: 20px;
+  margin-top: 50px;
+  font-family: 'Audiowide', cursive;
+  background-color: black;
+  color: red;
+  border: none;
+  border-radius: 3px;
+}
+
+h1 {
+  font-size: 4.5rem;
+  margin: 80px 0;
+  letter-spacing: 3px;
+}
